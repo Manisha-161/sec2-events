@@ -1,0 +1,16 @@
+utility classes
+    d-flex
+common classes/ compnent based classes
+    .box{
+        display:flex;
+        color:blue;
+        ....
+    }
+
+properties✅
+    spacing
+        padding
+        maring
+    thinking part layout of the page
+        responsive
+        
